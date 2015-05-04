@@ -21,6 +21,10 @@ An HTML to Markdown converter written in JavaScript.
 Javascript syntax highlighter 
 https://highlightjs.org/
 
+## [Prism](https://github.com/PrismJS/prism)
+Lightweight, robust, elegant syntax highlighting. 
+http://prismjs.com
+
 # Installation
 
 # Screenshot & Demo
