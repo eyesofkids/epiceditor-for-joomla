@@ -17,6 +17,10 @@ An extension of Parsedown that adds support for Markdown Extra.
 ## [to-markdown](https://github.com/domchristie/to-markdown)
 An HTML to Markdown converter written in JavaScript.
 
+## [Highlight.js](https://github.com/isagalaev/highlight.js)
+Javascript syntax highlighter 
+https://highlightjs.org/
+
 # Installation
 
 # Screenshot & Demo
