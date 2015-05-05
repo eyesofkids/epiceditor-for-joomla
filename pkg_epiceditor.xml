@@ -18,6 +18,6 @@
         <file type="library" id="epiceditor">lib_parsedown.zip</file>
      </files>
     <updateservers>
-        <server type="extension" name="EpicEditor" priority="1">https://raw.githubusercontent.com/joomla-extensions/weblinks/master/update.xml</server>
+        <server type="extension" name="EpicEditor" priority="1">https://raw.githubusercontent.com/eyesofkids/epiceditor-for-joomla/master/update.xml</server>
     </updateservers>
 </extension>
