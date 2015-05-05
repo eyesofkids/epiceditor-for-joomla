@@ -2,13 +2,13 @@
 <extension version="3.0" type="plugin" group="editors" method="upgrade">
     <name>EpicEditor</name>
     <version>1.0.0</version>
-    <creationDate>2015-05-02</creationDate>
+    <creationDate>May 2015</creationDate>
     <author>Eddy Chang</author>
     <authorEmail>eddy@joomla.com.tw</authorEmail>
     <authorUrl>www.eddychang.me</authorUrl>
-    <copyright>Copyright (C) yoonique[.]net All rights reserved.</copyright>
-    <license>GNU General Public License version 3</license>
-    <description>PLG_YOONIQUEMARKDOWN_DESCRIPTION</description>
+    <copyright>Copyright (C) EddyChang.me</copyright>
+    <license>GNU General Public License version 2</license>
+    <description>EpicEditor for Joomla</description>
 
     <files>
         <filename plugin="epiceditor">epiceditor.php</filename>
