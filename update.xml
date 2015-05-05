@@ -10,6 +10,8 @@
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/eyesofkids/epiceditor-for-joomla/releases/download/1.0.0/pkg_epiceditor_1.0.0.zip</downloadurl>
 		</downloads>
-		<targetplatform name="joomla" version="3.4" />
+		<maintainer>Eddy Chang</maintainer>
+        <maintainerurl>http://eddychang.me</maintainerurl>
+		<targetplatform name="joomla" version="3.[012345]"/>
 	</update>
 </updates>
