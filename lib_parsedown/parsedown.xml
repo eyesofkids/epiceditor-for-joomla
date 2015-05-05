@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.0" type="library" method="upgrade">
+    <name>Parsedown &amp; Parsedown Extra</name>
+    <author>Emanuil Rusev</author>
+    <creationDate>March 2015</creationDate>
+    <copyright>(c) Emanuil Rusev</copyright>
+    <license>The MIT License (MIT)</license>
+    <authorEmail>hello@erusev.com</authorEmail>
+    <authorUrl>erusev.com</authorUrl>
+    <version>1.5.1 / 0.7.0</version>
+    <description>Parsedown &amp; Parsedown Extra library.</description>
+    <libraryname>parsedown</libraryname>
+    <files>
+        <file>Parsedown.php</file>
+        <file>ParsedownExtra.php</file>
+        <file>LICENSE.txt</file>
+    </files>
+</extension>

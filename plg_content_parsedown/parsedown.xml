@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<extension version="3.0" type="plugin" group="content" method="upgrade">
+    <name>Content - Parsedown</name>
+    <version>1.0.0</version>
+    <creationDate>May 2015</creationDate>
+    <author>Eddy Chang</author>
+    <authorEmail>eddy@joomla.com.tw</authorEmail>
+    <authorUrl>eddychang.me</authorUrl>
+    <copyright>Copyright (C) EddyChang.me</copyright>
+    <license>GNU General Public License version 2</license>
+    <description>Content plug-in for Parse Markdown format</description>
+    <files>
+        <filename plugin="parsedown">parsedown.php</filename>
+    </files>
+</extension>

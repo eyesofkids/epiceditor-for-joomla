@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<extension version="3.0" type="plugin" group="editors" method="upgrade">
+    <name>EpicEditor</name>
+    <version>1.0.0</version>
+    <creationDate>2015-05-02</creationDate>
+    <author>Eddy Chang</author>
+    <authorEmail>eddy@joomla.com.tw</authorEmail>
+    <authorUrl>www.eddychang.me</authorUrl>
+    <copyright>Copyright (C) yoonique[.]net All rights reserved.</copyright>
+    <license>GNU General Public License version 3</license>
+    <description>PLG_YOONIQUEMARKDOWN_DESCRIPTION</description>
+
+    <files>
+        <filename plugin="epiceditor">epiceditor.php</filename>
+        <folder plugin="epiceditor">epiceditor</folder>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="main" label="Basic Settings">
+                <field
+                        name="editor_theme"
+                        type="list"
+                        label="Editor Theme"
+                        description="Dark or Light"
+                        default="epic-dark"
+                        >
+                    <option value="epic-dark">Dark</option>
+                    <option value="epic-light">Light</option>
+                </field>
+                <field
+                        name="preview_theme"
+                        type="list"
+                        label="Preview Theme"
+                        description="Bartik, Github or Dark"
+                        default="preview-dark"
+                        >
+                    <option value="preview-dark">Dark</option>
+                    <option value="bartik">Bartik</option>
+                    <option value="github">Github</option>
+                </field>
+                <field
+                        name="auto_save"
+                        type="text"
+                        label="AutoSave"
+                        description="How often to auto save the file in milliseconds."
+                        default="1000"
+                        class="input-small inputbox"
+                        size="4"
+                        />
+            </fieldset>
+        </fields>
+    </config>
+</extension>
