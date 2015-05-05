@@ -9,11 +9,11 @@
     <packager>Eddy Chang</packager>
     <packagerurl>http://eddychang.me/</packagerurl>
     <description>EpicEditor package with multiple extensions</description>
-    <files folder="packages">
-        <file type="library" id="parsedown">lib_parsedown.zip</file>
+    <files>
         <file type="plugin" id="parsedown" group="system">plg_system_parsedown.zip</file>
         <file type="plugin" id="parsedown" group="content">plg_content_parsedown.zip</file>
-        <file type="plugin" id="epiceditor" group="editors">plg_editors_parsedown.zip</file>
+        <file type="plugin" id="epiceditor" group="editors">plg_editors_epiceditor.zip</file>
+        <file type="library" id="parsedown">lib_parsedown.zip</file>
      </files>
     <updateservers>
         <server type="extension" name="EpicEditor" priority="1">http://eddychang.me/epiceditor_update.xml</server>
