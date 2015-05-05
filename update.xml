@@ -6,7 +6,7 @@
 		<element>pkg_epiceditor</element>
 		<type>package</type>
 		<version>1.0.0</version>
-		<infourl title="EpicEditor Package">https://github.com/eyesofkids/epiceditor-for-joomla</infourl>
+		<infourl title="EpicEditor for Joomla">https://github.com/eyesofkids/epiceditor-for-joomla</infourl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/eyesofkids/epiceditor-for-joomla/releases/download/1.0.0/pkg_epiceditor_1.0.0.zip</downloadurl>
 		</downloads>
