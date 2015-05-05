@@ -7,13 +7,15 @@
     <version>1.0.0</version>
     <url></url>
     <packager>Eddy Chang</packager>
-    <packagerurl>http://eddychang.me/</packagerurl>
+    <packagerurl>eddychang.me</packagerurl>
+    <copyright>Copyright (C) 2005 - 2015 Open Source Matters  All rights reserved.</copyright>
+   <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <description>EpicEditor package with multiple extensions</description>
     <files>
-        <file type="plugin" id="parsedown" group="system">plg_system_parsedown.zip</file>
-        <file type="plugin" id="parsedown" group="content">plg_content_parsedown.zip</file>
+        <file type="plugin" id="epiceditor" group="system">plg_system_parsedown.zip</file>
+        <file type="plugin" id="epiceditor" group="content">plg_content_parsedown.zip</file>
         <file type="plugin" id="epiceditor" group="editors">plg_editors_epiceditor.zip</file>
-        <file type="library" id="parsedown">lib_parsedown.zip</file>
+        <file type="library" id="epiceditor">lib_parsedown.zip</file>
      </files>
     <updateservers>
         <server type="extension" name="EpicEditor" priority="1">http://eddychang.me/epiceditor_update.xml</server>
