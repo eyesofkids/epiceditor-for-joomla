@@ -12,10 +12,10 @@
    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <description>EpicEditor package with multiple extensions</description>
     <files>
-        <file type="plugin" id="epiceditor" group="system">plg_system_parsedown.zip</file>
-        <file type="plugin" id="epiceditor" group="content">plg_content_parsedown.zip</file>
+        <file type="plugin" id="parsedown" group="system">plg_system_parsedown.zip</file>
+        <file type="plugin" id="parsedown" group="content">plg_content_parsedown.zip</file>
         <file type="plugin" id="epiceditor" group="editors">plg_editors_epiceditor.zip</file>
-        <file type="library" id="epiceditor">lib_parsedown.zip</file>
+        <file type="library" id="parsedown">lib_parsedown.zip</file>
      </files>
     <updateservers>
         <server type="extension" name="EpicEditor" priority="1">https://raw.githubusercontent.com/eyesofkids/epiceditor-for-joomla/master/update.xml</server>
