@@ -1,2 +1,6 @@
 
 *.zip
+
+*.sublime-project
+
+*.sublime-workspace
