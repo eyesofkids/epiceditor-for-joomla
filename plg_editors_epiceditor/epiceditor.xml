@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <extension version="3.0" type="plugin" group="editors" method="upgrade">
-    <name>EpicEditor</name>
+    <name>Editor - EpicEditor</name>
     <version>1.0.0</version>
     <creationDate>May 2015</creationDate>
     <author>Eddy Chang</author>
