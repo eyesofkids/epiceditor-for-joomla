@@ -26,6 +26,6 @@ https://highlightjs.org/
 # Screenshot & Demo
 
 # Changelog
-[Changelog](Changelog)
+Look into "Changelog"
 
 
