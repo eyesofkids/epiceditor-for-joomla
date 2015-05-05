@@ -26,3 +26,17 @@ https://highlightjs.org/
 # Screenshot & Demo
 
 # Changelog
+
+2015-05-05
++Add the files of the release 1.0.0
+
+
+
+Legend:
+* -> Security Fix
+# -> Issue Fix
+$ -> Language fix or change
++ -> Addition
+^ -> Change
+- -> Removed
+! -> Note
