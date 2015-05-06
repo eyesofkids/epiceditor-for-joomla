@@ -56,7 +56,8 @@ Some settings should be enabled and configurate before you use them.
 - EpicEditor will use the localStorage in your browser to autosave the content in its editor.
 
 # Screenshot / Demo
-
+![Fullscreen Editor](https://raw.githubusercontent.com/eyesofkids/epiceditor-for-joomla/master/demo/fullscreen_editor.png)
+![Demo Article](https://raw.githubusercontent.com/eyesofkids/epiceditor-for-joomla/master/demo/demo_screen.png)
 
 # Changelog
 Take a look into "Changelog" file.
