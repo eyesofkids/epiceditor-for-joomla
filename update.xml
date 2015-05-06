@@ -14,5 +14,6 @@
         <tag>dev</tag>
          </tags>
 		<targetplatform name="joomla" version="3.[012345]"/>
+		<client>site</client>
 	</update>
 </updates>
