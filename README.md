@@ -38,10 +38,9 @@ Some settings should be enabled and configurate before you use them.
 - **AutoSave** is **1000 ms** by default.
 
 # Other Notice
-
-- Internet Explorer browser is not recommended to use with it. Some functions are not workable.
-- Image and Article editor-xtd button will auto converter to markdown format.
-- EpicEditor will use the localStorage in your browser to autosave the content in its editor.
+- Internet Explorer browser is not recommended. Some functions are not workable.
+- Image/Article editor-xtd button will be auto converted.
+- EpicEditor uses the localStorage in your browser to autosave.
 
 # Screenshots / Demo
 
