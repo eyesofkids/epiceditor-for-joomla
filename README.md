@@ -41,12 +41,23 @@ Some settings should be enabled and configurate before you use them.
 - highlight.js is disabled by default. If you want the code highlight syntax function, setting it to **ON** in the setting page.
 - You can set the style for hightling.js as well. (workable if highlight.js function is **ON**)
 
-## 
+## Content - Parsedown
+- Enable this plugin and it will parse all the markdown format of the content(article).
+- If you want it also parses the **Custom HTML** module, don't forget to turn the option **Prepare Content
+** to **Yes** in the **Options** tab.
 
+## Editor - EpicEditor
+- Choose it for your **Default Editor** in the **Global Configuration** page.
+- You can choose different editor and preview theme in the detail page of this plugin(Plugin Manager: Editor - EpicEditor).
+- AutoSave is 1000ms by default.
 
-# Screenshot & Demo
+# Other Notice
+- Internet Explorer browser is not recommended to use with it. Some functions are not workable.
+- Image and Article editor-xtd button will auto converter to markdown format.
+
+# Screenshot / Demo
+
 
 # Changelog
-Look into "Changelog"
-
+Take a look into "Changelog" file.
 
