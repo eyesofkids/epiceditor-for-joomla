@@ -16,7 +16,7 @@
     </files>
     <config>
         <fields name="params">
-            <fieldset name="main" label="Basic Settings">
+            <fieldset name="basic">
                 <field
                         name="editor_theme"
                         type="list"
