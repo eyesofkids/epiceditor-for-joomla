@@ -3,7 +3,7 @@
 	<update>
 		<name>EpicEditor</name>
 		<description>EpicEditor Package</description>
-		<element>pkg_epiceditor</element>
+		<element>epiceditor</element>
 		<type>package</type>
 		<version>1.0.0d</version>
 		<infourl title="EpicEditor for Joomla">https://github.com/eyesofkids/epiceditor-for-joomla</infourl>
