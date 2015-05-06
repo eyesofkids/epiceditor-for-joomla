@@ -22,6 +22,27 @@ Javascript syntax highlighter
 https://highlightjs.org/
 
 # Installation
+Download the package and install it from the Extension Manager in the back-end.
+The package will install the extensions included:
+- lib_parsedown
+- plg_system_parsedown
+- plg_content_parsedown
+- plg_editors_epcieditor
+
+# Uninstallation
+Uninstall it from the **Manage** area of the Extension Manager in the back-end.
+The name of this package is **EpicEditor Package**
+
+# Setting
+Some settings should be enabled and configurate before you use them.
+
+## System - Parsedown & highlight.js
+- Enable this plugin and it will register the Parsedown & ParsedownExtra libraries to Joomla!.
+- highlight.js is disabled by default. If you want the code highlight syntax function, setting it to **ON** in the setting page.
+- You can set the style for hightling.js as well. (workable if highlight.js function is **ON**)
+
+## 
+
 
 # Screenshot & Demo
 
