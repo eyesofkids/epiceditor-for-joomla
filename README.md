@@ -48,11 +48,12 @@ Some settings should be enabled and configurate before you use them.
 ## Editor - EpicEditor
 - Choose it for your **Default Editor** in the **Global Configuration** page.
 - You can choose different editor and preview theme in the detail page of this plugin(Plugin Manager: Editor - EpicEditor).
-- AutoSave is 1000ms by default.
+- **AutoSave** is **1000 ms** by default.
 
 # Other Notice
 - Internet Explorer browser is not recommended to use with it. Some functions are not workable.
 - Image and Article editor-xtd button will auto converter to markdown format.
+- EpicEditor will use the localStorage in your browser to autosave the content in its editor.
 
 # Screenshot / Demo
 
