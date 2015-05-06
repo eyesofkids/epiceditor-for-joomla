@@ -43,8 +43,7 @@ Some settings should be enabled and configurate before you use them.
 
 ## Content - Parsedown
 - Enable this plugin and it will parse all the markdown format of the content(article).
-- If you want it also parses the **Custom HTML** module, don't forget to turn the option **Prepare Content
-** to **Yes** in the **Options** tab.
+- If you want it also parses the **Custom HTML** module, don't forget to turn the option **Prepare Content** to **Yes** in the **Options** tab.
 
 ## Editor - EpicEditor
 - Choose it for your **Default Editor** in the **Global Configuration** page.
