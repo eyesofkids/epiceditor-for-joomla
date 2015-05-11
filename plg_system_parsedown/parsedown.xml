@@ -7,7 +7,7 @@
     <license>GNU General Public License version 2 or later.</license>
     <authorEmail>eddy@joomla.com.tw</authorEmail>
     <authorUrl>eddychang.me</authorUrl>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>System plugin to register Parsedown &amp; ParsedownExtra library. Add highlight.js for the frontend.</description>
     <files>
         <filename plugin="parsedown">parsedown.php</filename>
