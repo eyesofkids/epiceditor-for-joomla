@@ -36,6 +36,10 @@ class plgSystemParsedown extends JPlugin
                 //get the style css param
                 $style = $this->params->get('highlight_style', 'default.css');
 
+                if (strpos($style,'.css') !== true) {
+                    $style.='.css';
+                }
+
                 $doc = JFactory::getDocument();
                 $doc->addStyleSheet(JURI::root() . 'plugins/system/parsedown/styles/'.$style);
                 $doc->addScript(JURI::root() . 'plugins/system/parsedown/highlight.pack.js');
