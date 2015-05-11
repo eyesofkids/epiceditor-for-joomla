@@ -7,7 +7,12 @@ $ -> Language fix or change
 - -> Removed
 ! -> Note
 
+-----------release 1.0.1-----------
+2015-05-11
+# fix highligh.js style extension bug.
+
 
 2015-05-05
-
 + Add the files of the release 1.0.0
+
+
