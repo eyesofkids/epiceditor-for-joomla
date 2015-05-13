@@ -23,7 +23,7 @@ The package will install the extensions included:
 
 ## Uninstall/ Remove
 
-Uninstall it from the **Manage** area of the Extension Manager in the back-end.
+Uninstall it from the **Manage** area of the **Extension Manager** in the back-end.
 The name of this package is **EpicEditor Package**
 
 ## Settings
